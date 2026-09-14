@@ -6,6 +6,7 @@ permalink: /weeks/week-01/
 <span class="label">WEEK 01</span>
 
 # 田野從哪裡開始？
+
 一個聲音、一個動作、一段等待，從那些原本習以為常，卻突然讓人停下來的地方開始。
 ## TRACE｜痕跡
 
