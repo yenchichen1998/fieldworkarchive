@@ -19,4 +19,5 @@ permalink: /weeks/week-01/
 
 ## NEXT MOVE｜下一步
   將工具、介面或規則作為延伸感知或經驗事件的一個窗口。
+  
 ![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
