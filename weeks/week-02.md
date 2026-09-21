@@ -12,6 +12,7 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡 
  ![共同繪製的教室導航地圖]({{ '/assets/images/w02-01.jpg' | relative_url }})
+ ![共同繪製的教室導航地圖]({{ '/assets/images/w02-02.jpg' | relative_url }})
  
   
 ## FRICTION｜摩擦
