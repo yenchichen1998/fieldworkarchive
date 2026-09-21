@@ -11,7 +11,7 @@ permalink: /weeks/week-02/
 
 
 ## TRACE｜痕跡 
-({{ '/assets/images/w02-01.jpg' | relative_url }})
+  ({{ '/assets/images/w02-01.jpg' | relative_url }})
   
 ## FRICTION｜摩擦
 
