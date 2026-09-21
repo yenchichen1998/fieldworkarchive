@@ -14,6 +14,8 @@ permalink: /weeks/week-02/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
  ({{ '/assets/images/w02-01.jpg' | relative_url }})
+ ({{ '/assets/images/w02-02.jpg' | relative_url }})
+ 
  
 
 ## FRICTION｜摩擦
