@@ -10,7 +10,10 @@ permalink: /weeks/week-03/
 > 請保留具體的現場、材料、語句或身體感受。
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![數位與肉身路徑]({{ '/assets/images/w03-01.jpg' | relative_url }})
+![數位與肉身路徑]({{ '/assets/images/w03-03.jpg' | relative_url }})
+![限制不同感官的聯合導航工作坊]({{ '/assets/images/w03-02.jpg' | relative_url }})
+
 
 ## FRICTION｜摩擦
 
