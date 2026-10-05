@@ -7,7 +7,9 @@ permalink: /weeks/week-04/
 
 # 物質與慢暴力
 
-> 請保留具體的現場、材料、語句或身體感受。
+![校園慢暴力偵查]({{ '/assets/images/w04-04.jpg' | relative_url }})
+![一場雨下在＿的氣味調香]({{ '/assets/images/w04-02.jpg' | relative_url }})
+![一場雨下在＿的氣味調香]({{ '/assets/images/w04-03.jpg' | relative_url }})
 
 ## TRACE｜痕跡
 
