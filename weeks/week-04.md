@@ -7,13 +7,12 @@ permalink: /weeks/week-04/
 
 # 物質與慢暴力
 
-![校園慢暴力偵查]({{ '/assets/images/w04-04.jpg' | relative_url }})
-![一場雨下在＿的氣味調香]({{ '/assets/images/w04-02.jpg' | relative_url }})
-![一場雨下在＿的氣味調香]({{ '/assets/images/w04-03.jpg' | relative_url }})
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![校園慢暴力偵查]({{ '/assets/images/w04-04.jpg' | relative_url }})
+![一場雨下在＿的氣味調香]({{ '/assets/images/w04-02.jpg' | relative_url }})
+![一場雨下在＿的氣味調香]({{ '/assets/images/w04-03.jpg' | relative_url }})
 
 ## FRICTION｜摩擦
 
