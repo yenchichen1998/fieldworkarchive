@@ -11,7 +11,10 @@ permalink: /weeks/week-06/
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![酸種工作坊]({{ '/assets/images/w06-01.jpg' | relative_url }})
+![酸種工作坊]({{ '/assets/images/w06-02.jpg' | relative_url }})
+![酸種工作坊]({{ '/assets/images/w06-03.jpg' | relative_url }})
+![酸種工作坊]({{ '/assets/images/w06-04.jpg' | relative_url }})
 
 ## FRICTION｜摩擦
 
