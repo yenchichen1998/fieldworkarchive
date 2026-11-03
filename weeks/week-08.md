@@ -9,3 +9,4 @@ permalink: /weeks/week-08/
 
 > 請紀錄這週的嘗試。
 
+![準備日]({{ '/assets/images/w08-01.jpg' | relative_url }})
