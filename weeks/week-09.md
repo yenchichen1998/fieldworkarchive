@@ -39,9 +39,11 @@ permalink: /weeks/week-09/
 
 ## PROTOTYPE｜原型
 
-放入草圖、結構圖、介面畫面、製作過程及實際測試照片。
+最後測試程式碼
+![準備日]({{ '/assets/images/w08-01.jpg' | relative_url }})
 
-若有影片、聲音或互動版本，請附上連結。
+arduino感壓式感測器設定
+
 
 ## FIELD TEST｜一次具體測試
 
