@@ -40,10 +40,17 @@ permalink: /weeks/week-09/
 ## PROTOTYPE｜原型
 
 最後測試程式碼
-![準備日]({{ '/assets/images/w08-01.jpg' | relative_url }})
+![PROTOTYPE]({{ '/assets/images/w08-01.jpg' | relative_url }})
 
 arduino感壓式感測器設定
+![PROTOTYPE]({{ '/assets/images/w09-01.jpg' | relative_url }})
 
+感壓式海綿選擇
+![PROTOTYPE]({{ '/assets/images/w09-02.jpg' | relative_url }})
+
+雙導電膠帶觸發通電
+![PROTOTYPE]({{ '/assets/images/w09-03.jpg' | relative_url }})
+![PROTOTYPE]({{ '/assets/images/w09-04.jpg' | relative_url }})
 
 ## FIELD TEST｜一次具體測試
 
@@ -54,11 +61,14 @@ arduino感壓式感測器設定
 這個工具使什麼變得可感知？ 
 
 1.工作經驗如何透過一段鈴聲，在休息時重新進入身體。
+
 2.同一段旋律對不同的人（身份），具有不同的辨認速度與行動意義。
+
 3.一個整人般的情境，如何讓勞動與休息的關係變得可以感受、討論。
 
 它同時讓什麼消失或變得不重要？
 
 1.沒有明顯反應的人容易被忽略，但他們也可能熟悉鈴聲，只是選擇繼續休息。
+
 2.聚焦工程師，也可能再次強化「新竹等於工程師」的想像，讓其他居民與工作者退到背景。
 
